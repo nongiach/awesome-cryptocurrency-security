@@ -23,7 +23,7 @@
 
 ## Blogs
 
-[radare2] - https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53 - Reversing EVM bytecode with radare2.
+[radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
 
 [Etherum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/) - Trailofbits Ethereum security tools.
 
