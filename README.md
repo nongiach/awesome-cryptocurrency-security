@@ -1,5 +1,5 @@
 # Awesome cryptocurrency security
-😎 Curated list about cryptocurrency security.
+😎 Curated list about cryptocurrency security. (reverse, exploit, fuzz..)
 
 ## Tools
 
@@ -13,9 +13,15 @@
 
 [Manticore](https://github.com/trailofbits/manticore) - Manticore uses symbolic execution to simulate complex multi-contract and multi-transaction attacks against EVM bytecode.
 
-[Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features.
+[Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features. (Binja)
+
+[Oyente](https://github.com/melonproject/oyente) - An automatic EVM code analyzer based on symbolic execution and Z3 SMT solver.
 
 [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA Processor Module for the Ethereum Virtual Machine.
+
+[Evmdis](https://github.com/arachnid/evmdis) - EVM disassembler.
+
+[Securify](https://securify.ch/) - Formal Verification of Ethereum Smart Contracts.
 
 [Rattle](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Rattle is an EVM static analyzer that analyzes the EVM bytecode directly for vulnerabilities.
 
@@ -39,4 +45,8 @@
 
 ## Awesomes
 
+[awesome](https://github.com/sindresorhus/awesome)
 
+[awesome ethereum](https://github.com/btomashvili/awesome-ethereum)
+
+[awesome ethereum virtual  machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
