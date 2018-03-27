@@ -1,4 +1,4 @@
-# awesome-cryptocurrency-security
+# Awesome cryptocurrency security
 😎 Curated list about cryptocurrency security
 
 ## Tools
