@@ -35,9 +35,15 @@
 
 [Hackernoon](https://hackernoon.com/scanning-ethereum-smart-contracts-for-vulnerabilities-b5caefd995df) - Analyzing Ethereum smart contracts for vulnerabilities.
 
-## MISC
+[nccgroup](https://www.nccgroup.trust/us/our-research/discovering-smart-contract-vulnerabilities-with-goatcasino/?style=Cyber+Security) - Discovering Smart Contract Vulnerabilities with GOATCasino.
+
+## Training
 
 [Ethernaut](https://ethernaut.zeppelin.solutions/level/0x6545df87f57d21cb096a0bfcc53a70464d062512) - The ethernaut is a Web3/Solidity based wargame.
+
+[GOATCasino](https://github.com/nccgroup/GOATCasino) - GOATCasino is a Truffle project which deploys a set of intentionally vulnerable smart contracts.
+
+## MISC
 
 [Not so smart conracts](https://github.com/trailofbits/not-so-smart-contracts) - Examples of Solidity security issues.
 
