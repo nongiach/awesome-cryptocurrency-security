@@ -49,6 +49,10 @@
 
 [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference.
 
+## Paper
+
+[Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - Ethereum: a secure decentralised generalised transaction ledger. 
+
 ## Awesomes
 
 [awesome](https://github.com/sindresorhus/awesome)
