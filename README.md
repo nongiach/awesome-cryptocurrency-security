@@ -37,6 +37,10 @@
 
 [nccgroup](https://www.nccgroup.trust/us/our-research/discovering-smart-contract-vulnerabilities-with-goatcasino/?style=Cyber+Security) - Discovering Smart Contract Vulnerabilities with GOATCasino.
 
+[Arseny Reutov](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620) - Predicting Random Numbers in Ethereum Smart Contracts.
+
+[funfair](https://funfair.io/randomness-is-a-big-deal/) - Randomness is a big deal.
+
 ## Training
 
 [Ethernaut](https://ethernaut.zeppelin.solutions/level/0x6545df87f57d21cb096a0bfcc53a70464d062512) - The ethernaut is a Web3/Solidity based wargame.
