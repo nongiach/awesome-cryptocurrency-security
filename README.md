@@ -27,6 +27,8 @@
 
 [Slither](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Static analyses on Solidity.
 
+[Diligence](https://consensys.net/diligence/) - Security Services, Tools and Best Practices for the Ethereum Ecosystem.
+
 ## Blogs
 
 [radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
@@ -56,6 +58,8 @@
 [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference.
 
 ## Paper
+
+[Smarter](https://eprint.iacr.org/2016/633.pdf) - Making Smart Contracts Smarter.
 
 [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - Ethereum: a secure decentralised generalised transaction ledger. 
 
