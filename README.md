@@ -31,6 +31,8 @@
 
 ## Blogs
 
+[ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) Practical ETH decompilation.
+
 [radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
 
 [Etherum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/) - Trailofbits Ethereum security tools.
