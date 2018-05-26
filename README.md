@@ -67,8 +67,8 @@
 
 
 ----
-By [@chaign\_c][] [#HexpressoTeam][hexpresso].
+By [@chaignc][] [#HexpressoTeam][hexpresso].
 
 
 [hexpresso]:     https://hexpresso.github.io
-[@chaign\_c]:    https://twitter.com/chaign_c
+[@chaignc]:    https://twitter.com/chaignc
