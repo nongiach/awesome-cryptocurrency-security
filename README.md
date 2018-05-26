@@ -49,6 +49,8 @@
 
 ## MISC
 
+[dasp](http://dasp.co/) - Decentralized Application Security Project (or DASP) Top 10 of 2018.
+
 [Not so smart conracts](https://github.com/trailofbits/not-so-smart-contracts) - Examples of Solidity security issues.
 
 [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference.
