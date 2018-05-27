@@ -37,9 +37,17 @@
 
 ## Blogs
 
-[solidified](https://medium.com/solidified/parity-hack-how-it-happened-and-its-aftermath-9bffb2105c0) - Parity hack. 
+[blackhat](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf) - Blackhat Ethereum.
+
+[solidified](https://medium.com/solidified/parity-hack-how-it-happened-and-its-aftermath-9bffb2105c0) - Parity hack.
+
+[arvanaghi 1](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/) - Reversing ethereum smart contracts.
+
+[arvanaghi 2](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/) - Reversing ethereum smart contracts
 
 [ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) - Practical ETH decompilation.
+
+[ETH assembly](https://medium.com/@xJonathan/reverse-engineering-ethereum-smart-contract-lets-talk-assembly-10c38b8e3c2) - Lets talk assembly.
 
 [radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
 
@@ -84,8 +92,11 @@
 ## Jobs
 
 [Ethercasts](https://jobs.ethercasts.com/)
+
 [Solidified](https://solidified.io/)
+
 [codementor](https://www.codementor.io/solidity-developers)
+
 [iosiro](https://www.iosiro.com/)
 
 ----
