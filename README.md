@@ -33,9 +33,13 @@
 
 [Diligence](https://consensys.net/diligence/) - Security Services, Tools and Best Practices for the Ethereum Ecosystem.
 
+[fuildai](https://fluidai.co/) - Fluid is an AI that can automatically find and fix fatal security vulnerabilities in Smart Contracts.
+
 ## Blogs
 
-[ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) Practical ETH decompilation.
+[solidified](https://medium.com/solidified/parity-hack-how-it-happened-and-its-aftermath-9bffb2105c0) - Parity hack. 
+
+[ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) - Practical ETH decompilation.
 
 [radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
 
@@ -77,6 +81,12 @@
 
 [awesome ethereum virtual  machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 
+## Jobs
+
+[Ethercasts](https://jobs.ethercasts.com/)
+[Solidified](https://solidified.io/)
+[codementor](https://www.codementor.io/solidity-developers)
+[iosiro](https://www.iosiro.com/)
 
 ----
 By [@chaignc][] [#HexpressoTeam][hexpresso].
