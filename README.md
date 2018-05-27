@@ -47,6 +47,8 @@
 
 [ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) - Practical ETH decompilation.
 
+[loom-network](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d) - 6 vulnerabilities and how to avoid them part 1.
+
 [ETH assembly](https://medium.com/@xJonathan/reverse-engineering-ethereum-smart-contract-lets-talk-assembly-10c38b8e3c2) - Lets talk assembly.
 
 [radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) - Reversing EVM bytecode with radare2.
