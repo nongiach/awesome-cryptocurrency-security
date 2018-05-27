@@ -43,7 +43,7 @@
 
 [arvanaghi 1](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/) - Reversing ethereum smart contracts.
 
-[arvanaghi 2](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/) - Reversing ethereum smart contracts
+[arvanaghi 2](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/) - Reversing ethereum smart contracts 2.
 
 [ret2](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) - Practical ETH decompilation.
 
