@@ -77,6 +77,8 @@
 
 [EVM opcodes](https://github.com/trailofbits/evm-opcodes) - Ethereum opcodes and instruction reference.
 
+[mint integer overflow](https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md) mint integer overflow.
+
 ## Paper
 
 [Smarter](https://eprint.iacr.org/2016/633.pdf) - Making Smart Contracts Smarter.
