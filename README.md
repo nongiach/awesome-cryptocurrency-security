@@ -79,6 +79,8 @@
 
 [mint integer overflow](https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md) mint integer overflow.
 
+[Uninitialized Pointer](https://medium.com/cryptronics/storage-allocation-exploits-in-ethereum-smart-contracts-16c2aa312743) Storage Allocation Exploits in Ethereum Smart Contracts.
+
 ## Paper
 
 [Smarter](https://eprint.iacr.org/2016/633.pdf) - Making Smart Contracts Smarter.
