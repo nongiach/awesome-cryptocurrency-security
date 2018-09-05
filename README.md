@@ -105,6 +105,8 @@
 
 [iosiro](https://www.iosiro.com/)
 
+[audithor](https://audithor.io)
+
 ----
 By [@chaignc][] [#HexpressoTeam][hexpresso].
 
