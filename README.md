@@ -29,7 +29,7 @@
 
 [Rattle](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Rattle is an EVM static analyzer that analyzes the EVM bytecode directly for vulnerabilities.
 
-[Slither](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Static analyses on Solidity.
+[Slither](https://github.com/trailofbits/slither) - Static analysis on Solidity.
 
 [Diligence](https://consensys.net/diligence/) - Security Services, Tools and Best Practices for the Ethereum Ecosystem.
 
