@@ -107,6 +107,12 @@
 
 [audithor](https://audithor.io)
 
+## Twitter
+
+[@withzombies](https://twitter.com/withzombies)
+[@chaignc](https://twitter.com/chaignc)
+[@trailofbits](https://twitter.com/trailofbits)
+
 ----
 By [@chaignc][] [#HexpressoTeam][hexpresso].
 
