@@ -37,6 +37,8 @@
 
 ## Blogs
 
+[muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
+
 [blackhat](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf) - Blackhat Ethereum.
 
 [solidified](https://medium.com/solidified/parity-hack-how-it-happened-and-its-aftermath-9bffb2105c0) - Parity hack.
