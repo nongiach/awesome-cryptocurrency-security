@@ -71,6 +71,8 @@
 
 [GOATCasino](https://github.com/nccgroup/GOATCasino) - GOATCasino is a Truffle project which deploys a set of intentionally vulnerable smart contracts.
 
+[ctf challs](https://eth.swampctf.com/) SWAMPCTF
+
 ## MISC
 
 [dasp](http://dasp.co/) - Decentralized Application Security Project (or DASP) Top 10 of 2018.
