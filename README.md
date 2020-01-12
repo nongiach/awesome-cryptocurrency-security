@@ -35,6 +35,8 @@
 
 [fuildai](https://fluidai.co/) - Fluid is an AI that can automatically find and fix fatal security vulnerabilities in Smart Contracts.
 
+[vs code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/)
+
 ## Blogs
 
 [muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
