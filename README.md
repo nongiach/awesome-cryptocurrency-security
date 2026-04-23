@@ -37,6 +37,8 @@
 
 [vs code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code
 
+[Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free token safety scanner and rug pull checker with a 0-100 risk score across Solana, Ethereum, Base, BSC, Arbitrum, and Polygon. Honeypot simulation, mint-authority detection, liquidity-lock verification, and holder-concentration analysis. No signup, public REST API.
+
 ## Blogs
 
 [muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
