@@ -125,3 +125,5 @@ By [@chaignc][] [#HexpressoTeam][hexpresso].
 
 [hexpresso]:     https://hexpresso.github.io
 [@chaignc]:    https://twitter.com/chaignc
+
+- [EventTrader](https://cymetica.com) — On-chain prediction markets on Base L2. A2A agent protocol with HMAC-SHA256 signed envelopes for cross-platform agent security. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Security](https://cymetica.com/.well-known/security.txt)
