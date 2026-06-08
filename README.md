@@ -37,6 +37,7 @@
 
 [vs code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code
 
+[TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain behavioral trust scoring MCP server for AI cryptocurrency security agents on Solana. Verify AI agent wallet identity before granting access to sensitive crypto security operations. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Blogs
 
 [muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
