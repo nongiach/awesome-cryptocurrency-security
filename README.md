@@ -6,6 +6,7 @@
 [Image from this Practical ETH decompilation blog](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/) .
 
 ## Tools
+- [Deep Blue Alpha](https://deepbluealpha.io) — Ethereum whale wallet tracker for on-chain investigation: 20,000+ wallets, real-time DEX swap classification, wallet P&L analysis.
 
 [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts.
 
