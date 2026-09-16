@@ -22,6 +22,7 @@
 [Oyente](https://github.com/melonproject/oyente) - An automatic EVM code analyzer based on symbolic execution and Z3 SMT solver.
 
 [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA Processor Module for the Ethereum Virtual Machine.
+[HostDeFi](https://hostdefi.com) - Free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains.
 
 [Evmdis](https://github.com/arachnid/evmdis) - EVM disassembler.
 
