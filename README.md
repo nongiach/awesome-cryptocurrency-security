@@ -37,6 +37,8 @@
 
 [vs code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code
 
+[BountyGuard](https://github.com/doomsday-network/bounty-guard) - Open-source threat-intelligence scanner, honeypot blocklist, and cryptographic Proof-of-Escrow verifier for Web3 and GitHub bug bounties.
+
 ## Blogs
 
 [muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
