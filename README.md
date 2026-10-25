@@ -37,6 +37,8 @@
 
 [vs code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
+
 ## Blogs
 
 [muellerberndt](https://medium.com/@muellerberndt/practical-smart-contract-security-analysis-and-exploitation-part-1-6c2f2320b0c) - Practical Smart Contract Security Analysis and Exploitation— Part 1
